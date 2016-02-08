@@ -1,0 +1,4 @@
+G:\Repository\FurnitureSys\FurnitureSys.Model\bin\Debug\FurnitureSys.Model.dll
+G:\Repository\FurnitureSys\FurnitureSys.Model\bin\Debug\FurnitureSys.Model.pdb
+G:\Repository\FurnitureSys\FurnitureSys.Model\obj\Debug\FurnitureSys.Model.dll
+G:\Repository\FurnitureSys\FurnitureSys.Model\obj\Debug\FurnitureSys.Model.pdb

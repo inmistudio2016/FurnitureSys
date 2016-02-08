@@ -1,0 +1,9 @@
+G:\Repository\FurnitureSys\FurnitureSys.Service\bin\Debug\FurnitureSys.Service.dll
+G:\Repository\FurnitureSys\FurnitureSys.Service\bin\Debug\FurnitureSys.Service.pdb
+G:\Repository\FurnitureSys\FurnitureSys.Service\obj\Debug\FurnitureSys.Service.dll
+G:\Repository\FurnitureSys\FurnitureSys.Service\obj\Debug\FurnitureSys.Service.pdb
+G:\Repository\FurnitureSys\FurnitureSys.Service\bin\Debug\CommonHelper.dll
+G:\Repository\FurnitureSys\FurnitureSys.Service\bin\Debug\FurnitureSys.Model.dll
+G:\Repository\FurnitureSys\FurnitureSys.Service\bin\Debug\CommonHelper.pdb
+G:\Repository\FurnitureSys\FurnitureSys.Service\bin\Debug\FurnitureSys.Model.pdb
+G:\Repository\FurnitureSys\FurnitureSys.Service\obj\Debug\FurnitureSys.Service.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+G:\Repository\FurnitureSys\CommonHelper\bin\Debug\CommonHelper.dll
+G:\Repository\FurnitureSys\CommonHelper\bin\Debug\CommonHelper.pdb
+G:\Repository\FurnitureSys\CommonHelper\obj\Debug\CommonHelper.dll
+G:\Repository\FurnitureSys\CommonHelper\obj\Debug\CommonHelper.pdb
